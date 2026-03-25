@@ -183,8 +183,9 @@ The gap between North+South and East+West is more notable. East and West togethe
 week3-sales-analysis/
 ├── sales_analysis.py       # Main analysis script
 ├── sales_data.csv          # Dataset (100 rows, 7 columns)
-├── analysis_report.md      # This report
-└── requirements.txt        
+├── analysis_report.md      
+├── requirements.txt        # pandas: 3.0.1
+└── README.md               # This file
 ```
 
 ---
